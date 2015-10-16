@@ -1,6 +1,9 @@
 // Parametric Pulley with multiple belt profiles
 // by droftarts January 2012
 
+// Slightly modified from original at http://www.thingiverse.com/thing:16627
+// Licensed under Creative Commons BY-SA
+
 // Based on pulleys by:
 // http://www.thingiverse.com/thing:11256 by me!
 // https://github.com/prusajr/PrusaMendel by Josef Prusa
